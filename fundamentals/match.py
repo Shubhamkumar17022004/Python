@@ -32,3 +32,5 @@ match value1:
         print("-ve")
     case 0:
         print("Nothing")
+    case _:
+        print("Nothing")
